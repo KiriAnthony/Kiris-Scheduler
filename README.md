@@ -11,6 +11,7 @@
 * When the page is refreshed, the saved events persist
 
 ## Link to the Website
-
+https://kirianthony.github.io/Kiris-Scheduler/
 
 ## Screenshot of the site
+![Screenshot 2022-01-30 212330](https://user-images.githubusercontent.com/94418477/151738696-fb696e0a-4770-48ff-b808-a7ab18f02715.png)
